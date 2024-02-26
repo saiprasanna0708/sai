@@ -28,7 +28,6 @@ class GFG {
 		largest = biggestOfThree(a, b, c);
 
 		// Printing the largest number
-		System.out.println(largest
-						+ " is the largest number.");
+		System.out.println(largest + " is the largest number.");
 	}
 }
